@@ -1,3 +1,70 @@
+# Strelligence API
+
+Financial intelligence and analytics infrastructure for Stellar/Soroban applications.
+
+## Overview
+
+Strelligence provides:
+- blockchain indexing
+- transaction normalization
+- recurring payment detection
+- wallet analytics
+- financial insights APIs
+- developer webhooks
+
+## Problem
+
+Blockchain data is difficult to interpret and use in real-world financial applications.
+
+Developers spend significant time:
+- parsing transactions
+- categorizing activity
+- detecting recurring payments
+- building analytics systems
+
+Strelligence solves this by providing a unified financial intelligence layer.
+
+## Tech Stack
+
+- NestJS
+- PostgreSQL
+- Prisma
+- Redis
+- BullMQ
+- Stellar SDK
+- Soroban RPC
+
+## Core Systems
+
+- Blockchain Indexer
+- Classification Engine
+- Recurring Detection Engine
+- Cashflow Analytics Engine
+- Webhook Delivery System
+
+## API Features
+
+- Transactions API
+- Insights API
+- Cashflow API
+- Webhook API
+- API Key Management
+
+## Architecture
+
+Blockchain → Indexer → Database → Classification → Insights → API Layer
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
